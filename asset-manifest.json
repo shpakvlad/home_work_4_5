@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home_work_4_5/static/css/main.e4e14312.css",
+    "main.js": "/home_work_4_5/static/js/main.1f915fe5.js",
+    "static/media/img1.jpg": "/home_work_4_5/static/media/img1.329ee4dd86d07fab7dca.jpg",
+    "static/media/Poppins-Regular.ttf": "/home_work_4_5/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/home_work_4_5/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
+    "static/media/Img2.jpg": "/home_work_4_5/static/media/Img2.661bec69a7f0ca8ad20d.jpg",
+    "static/media/img2.jpg": "/home_work_4_5/static/media/img2.8c2cbbd95b11c6f9de76.jpg",
+    "static/media/img3.jpg": "/home_work_4_5/static/media/img3.1f8d300ce91d63fa343a.jpg",
+    "static/media/img5.jpg": "/home_work_4_5/static/media/img5.aa460d86290d49aaf6b8.jpg",
+    "static/media/Img3.jpg": "/home_work_4_5/static/media/Img3.eb531828f02a10bb7ae5.jpg",
+    "static/media/img6.jpg": "/home_work_4_5/static/media/img6.add3b181bcf08d9c558c.jpg",
+    "static/media/img4.jpg": "/home_work_4_5/static/media/img4.45879b2217b5c2c91f55.jpg",
+    "static/media/img4.webp": "/home_work_4_5/static/media/img4.01666c0455f40b3d1cfd.webp",
+    "static/media/img2.webp": "/home_work_4_5/static/media/img2.2d4d5df25c870997a5fe.webp",
+    "index.html": "/home_work_4_5/index.html",
+    "main.e4e14312.css.map": "/home_work_4_5/static/css/main.e4e14312.css.map",
+    "main.1f915fe5.js.map": "/home_work_4_5/static/js/main.1f915fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4e14312.css",
+    "static/js/main.1f915fe5.js"
+  ]
+}
